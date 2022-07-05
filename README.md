@@ -7,3 +7,9 @@ You can install the package with:
 install.packages("devtools") # if you have not installed "devtools" package
 devtools::install_github("dizyd/davtools")
 ```
+
+
+So far these functions are available:
+
+- `print_bf()`
+- `make_df_readme()`
