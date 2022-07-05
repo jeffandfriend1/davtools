@@ -9,7 +9,7 @@ devtools::install_github("dizyd/davtools")
 ```
 
 
-So far these functions are available:
+So far these functions are available (use `?function_name` to see what they are doing):
 
 - `print_bf()`
 - `make_df_readme()`
