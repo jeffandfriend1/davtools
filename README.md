@@ -1,5 +1,5 @@
 # davtools
-This package includes some helper functions for different tasks.
+This package includes some helper functions for different tasks...
 
 You can install the package with:
 
