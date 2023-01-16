@@ -7,7 +7,7 @@
 #'
 #' @author David Izydorczyk
 #'
-#' @return sigma_tau
+#' @return sigma or tau
 #'
 #'
 #' @examples

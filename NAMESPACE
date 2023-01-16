@@ -2,9 +2,11 @@
 
 export(RMSE)
 export(expand_grid_unique)
+export(flattenlist)
 export(make_df_readme)
 export(mean_sd)
 export(print_bf)
+export(sigma_tau)
 importFrom(dplyr,mutate_if)
 importFrom(knitr,kable)
 importFrom(magrittr,"%>%")

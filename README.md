@@ -17,6 +17,7 @@ So far these functions are available (use `?function_name` to see what they are 
 - `RMSE()`
 - `expand_grid_unique()`
 - `sigma_tau()`
+- `flattenlist()`
 
 Available datasets are:
 
