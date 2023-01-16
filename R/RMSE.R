@@ -11,7 +11,7 @@
 #'
 #'
 #' @examples
-#' RMSE(rnorm(100),rnorm(100))
+#' RSME(rnorm(100),rnorm(100))
 #'
 #' @export
 RMSE     <- function(x,y){

@@ -12,4 +12,4 @@ RoxygenNote: 7.2.2
 URL: https://dizyd.github.io/
 Imports: magrittr, knitr, tibble, dplyr, papaja, stats
 LazyData: true
-Depends: R (>= 3.5.0)
+Depends: R (>= 4.2.0)

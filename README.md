@@ -16,6 +16,7 @@ So far these functions are available (use `?function_name` to see what they are 
 - `mean_sd()`
 - `RMSE()`
 - `expand_grid_unique()`
+- `sigma_tau()`
 
 Available datasets are:
 
