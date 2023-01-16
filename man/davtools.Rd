@@ -5,17 +5,21 @@
 \alias{davtools}
 \title{davtools: A package to improve my life}
 \description{
-The package davtools provides one function and a dataset:
-print_bf, a function to print Bayes Factors in Markdown files
-res_rt, a data frame with simulated results of an experiment.
+The package davtools provides several function and one simulated dataset.
 }
 \section{Functions}{
 
-The functions \code{\link{print_bf}} can be used to print Bayes Factors in Markdown files
+\itemize{
+\item \code{\link{print_bf}}:  print Bayes Factors in Markdown files
+\item \code{\link{make_df_readme}}:  create summary of a data.frame in form of a markdown table
+\item \code{\link{mean_sd}}:  print mean and standarddeviation of a variable in Markdown files
+\item \code{\link{mean_sd}}: compute the root-mean-squared-error (RMSE) between two numeric variables
+\item \code{\link{expand_grid_unique}}:  make a grid of uniqe factor combinations, i.e. ignoring order of factors
+}
 }
 
 \section{Datasets}{
 
-The datasets are used to test and show different functions in this package
+The datase  \code{\link{res_rt}} is used to test and show different functions in this package
 }
 

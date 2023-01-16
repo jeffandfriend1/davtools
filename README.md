@@ -13,7 +13,9 @@ So far these functions are available (use `?function_name` to see what they are 
 
 - `print_bf()`
 - `make_df_readme()`
-
+- `mean_sd()`
+- `RMSE()`
+- `expand_grid_unique()`
 
 Available datasets are:
 
