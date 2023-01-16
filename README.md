@@ -18,6 +18,7 @@ So far these functions are available (use `?function_name` to see what they are 
 - `expand_grid_unique()`
 - `sigma_tau()`
 - `flattenlist()`
+- `install_n_load_packages()`
 
 Available datasets are:
 
