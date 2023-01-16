@@ -18,6 +18,7 @@ The package davtools provides several function and one simulated dataset.
 \item \code{\link{sigma_tau}}:  transform sigma to tau (i.e. precision in JAGS) or the other way around
 \item \code{\link{flattenlist}}:  flatten a highly nested list as returned by \code{foreach()} into a simple list
 \item \code{\link{install_n_load_packages}}:  load packages and install missing packages if necessary
+\item \code{\link{save_results}}:  save an R object as .Rdata with the current date automatically appended to the file name
 }
 }
 
