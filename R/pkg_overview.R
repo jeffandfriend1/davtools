@@ -12,6 +12,7 @@
 #' - \code{\link{flattenlist}}:  flatten a highly nested list as returned by `foreach()` into a simple list
 #' - \code{\link{install_n_load_packages}}:  load packages and install missing packages if necessary
 #' - \code{\link{save_results}}:  save an R object as .Rdata with the current date automatically appended to the file name
+#' - \code{\link{rbern}}: generate random Bernoulli distributed samples
 #'
 #' @section Datasets:
 #' The datase  \code{\link{res_rt}} is used to test and show different functions in this package

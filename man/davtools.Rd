@@ -19,6 +19,7 @@ The package davtools provides several function and one simulated dataset.
 \item \code{\link{flattenlist}}:  flatten a highly nested list as returned by \code{foreach()} into a simple list
 \item \code{\link{install_n_load_packages}}:  load packages and install missing packages if necessary
 \item \code{\link{save_results}}:  save an R object as .Rdata with the current date automatically appended to the file name
+\item \code{\link{rbern}}: generate random Bernoulli distributed samples
 }
 }
 
